@@ -36,7 +36,5 @@ Se utiliza la API pública de ExchangeRate API para obtener los tipos de cambio 
 Puedes compilar y ejecutar desde la consola o directamente desde el entorno IntelliJ.
 
 
-🙋‍♀️ Autor
-
-- **MasielQM**  
+🙋‍♀️ Autor   - **MasielQM**  
 [Repositorio en GitHub](https://github.com/MasielQM/ConversorDeMonedas)
